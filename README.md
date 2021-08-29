@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AmolKumarGupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Amol Kumar Gupta.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning B.C.A.
+- 💞️ I’m looking for some new skills.
+- 📫 i am also in instagram.
 
 <!---
 AmolKumarGupta/AmolKumarGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
