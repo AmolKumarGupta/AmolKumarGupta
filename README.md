@@ -11,7 +11,14 @@
 - ### Student level
   <p align="center">
   <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg")>
+  <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg")>
+  <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg")>
+  <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg")>
   </p>
   
 - ### Advanced level
-  <p align="center"></p>
+  <p align="center">
+  <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg")>
+  <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg")>
+  <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg")>
+  </p>
