@@ -1,4 +1,4 @@
-
+![banner](img/Amol.png)
 
 <!--- Stats --->
 ## My Stats
