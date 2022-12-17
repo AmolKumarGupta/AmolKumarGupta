@@ -1,4 +1,4 @@
-![banner](img/Amol.png)
+<p align="center"><img src="img/Amol.png"></p>
 
 <!--- Stats --->
 ## My Stats
