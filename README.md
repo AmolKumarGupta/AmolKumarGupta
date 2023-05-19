@@ -1,6 +1,7 @@
 <!--- Stats --->
-## My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmolKumarGupta&theme=vue&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmolKumarGupta&show_icons=true&theme=transparent&hide_border=true" alt="Amol's GitHub stats" />
+</p>
 
 ## My Langs & Tools
   
