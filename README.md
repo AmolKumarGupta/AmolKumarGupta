@@ -1,6 +1,7 @@
 <!--- Stats --->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmolKumarGupta&show_icons=true&theme=transparent&hide_border=true" alt="Amol's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmolKumarGupta&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="Amol's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolKumarGupta&theme=transparent&hide_border=true&&layout=compact&langs_count=7" alt="Amol's GitHub stats" />
 </p>
 
 ## My Langs & Tools
