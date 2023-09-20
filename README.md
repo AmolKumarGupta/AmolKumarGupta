@@ -7,10 +7,10 @@
 ## My Langs & Tools
   
 - ### I am Working with
-  ![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,jquery,react,nodejs,ts,bootstrap,tailwind&theme=dark)
+  ![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,jquery,react,nodejs,bootstrap,tailwind&theme=dark)
   
 - ### Tools I used
   ![My Skills](https://skillicons.dev/icons?i=linux,regex,git,github,githubactions,devto,postman,vim,vscode,vite,figma&theme=dark)
 
 - ### What i know Tiniest bit
-  ![My Skills](https://skillicons.dev/icons?i=wordpress,express,cpp,bash&theme=dark)
+  ![My Skills](https://skillicons.dev/icons?i=wordpress,express,cpp,bash,ts,python&theme=dark)
