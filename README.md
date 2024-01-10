@@ -13,4 +13,4 @@
   ![My Skills](https://skillicons.dev/icons?i=linux,regex,git,github,githubactions,devto,postman,vim,vscode,vite,figma&theme=dark)
 
 - ### What i know Tiniest bit
-  ![My Skills](https://skillicons.dev/icons?i=wordpress,express,cpp,bash,ts,python&theme=dark)
+  ![My Skills](https://skillicons.dev/icons?i=wordpress,go,express,cpp,bash,ts,python&theme=dark)
